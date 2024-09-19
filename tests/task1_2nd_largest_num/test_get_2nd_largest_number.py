@@ -1,6 +1,6 @@
 import pytest
 
-from task2_2nd_largest_num import get_2nd_largest
+from task1_2nd_largest_num import get_2nd_largest
 
 
 def test_when_given_parameter_is_less_than_2():
