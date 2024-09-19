@@ -1,4 +1,4 @@
-"""Solutuin for task 1"""
+"""Solution for task 1"""
 
 def get_2nd_largest(values: list[int]) -> int:
     if len(values) < 2:
