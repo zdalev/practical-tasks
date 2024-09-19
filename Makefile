@@ -69,7 +69,7 @@ $(src_dir) $(tests_dir):
 .PHONY: setup ### install venv and its requirements for package development
 setup: install-venv install-requirements
 
-package := advent_code_2015
+package := practical_tasks
 venv := .venv
 pyseed ?= $(shell command -v python3 2> /dev/null)
 python := $(venv)/bin/python
