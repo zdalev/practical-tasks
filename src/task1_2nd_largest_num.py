@@ -1,3 +1,5 @@
+"""Solutuin for task 1"""
+
 def get_2nd_largest(values: list[int]) -> int:
     if len(values) < 2:
         raise IndexError('Given list length is less than 2.')
