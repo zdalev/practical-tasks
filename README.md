@@ -1,4 +1,4 @@
-# advent_code_2015
+# practical_tasks
 Elevator pitch.
 ## Install
 ```
